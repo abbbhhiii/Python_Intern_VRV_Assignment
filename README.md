@@ -36,3 +36,5 @@ The script performs the following tasks:
    ```bash
    git clone https://github.com/abbbhhiii/Python_Intern_VRV_Assignment.git
    cd Python_Intern_VRV_Assignment
+2. Install necessary Python packages:
+   pip install matplotlib ipywidgets
